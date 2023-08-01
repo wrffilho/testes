@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book id="bk001">
+        <title lang="en">The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <genre>Fiction</genre>
+        <price currency="USD">15.99</price>
+        <publish_date>1951-07-16</publish_date>
+        <description>
+            A classic novel about a teenager dealing with the challenges of growing up and finding his identity.
+        </description>
+    </book>
+    <book id="bk002">
+        <title lang="en">To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <genre>Fiction</genre>
+        <price currency="USD">12.99</price>
+        <publish_date>1960-07-11</publish_date>
+        <description>
+            Set in the 1930s, the novel addresses issues of racial injustice and moral growth through the eyes of a young girl.
+        </description>
+    </book>
+    <book id="bk003">
+        <title lang="fr">Les Misérables</title>
+        <author>Victor Hugo</author>
+        <genre>Novel</genre>
+        <price currency="EUR">19.99</price>
+        <publish_date>1862-03-15</publish_date>
+        <description>
+            A sprawling historical novel set in early 19th-century France, following the lives of several characters.
+        </description>
+    </book>
+    <book id="bk004">
+        <title lang="en">Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <genre>Novel</genre>
+        <price currency="GBP">9.99</price>
+        <publish_date>1813-01-28</publish_date>
+        <description>
+            A romantic novel focusing on the complex relationships between different social classes in Regency-era England.
+        </description>
+    </book>
+    <!-- More books can be added here -->
+</catalog>
